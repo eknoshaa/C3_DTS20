@@ -8,3 +8,55 @@
 @media all and (max-width: 670px) {
 	
 }
+
+/* Start of Page-Two */
+.page-two {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h1 {
+  font-weight: normal;
+}
+
+.tips {
+  opacity: 0.6;
+  float: left;
+  width: 25%;
+}
+
+.tips:hover {
+  opacity: 1;
+}
+
+.tips-icon {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.tips-icon img {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin: 25px 0px;
+  font-size: 20px;
+  color: #b3aeb5;
+  float: left;
+}
+
+/* End of Page-Two */
